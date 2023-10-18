@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice16</string>
+    <string name="light">Сменить на светлую</string>
+    <string name="night">Сменить на тёмную</string>
+    <string name="about_program">"""
+Разработчик: Макаренко Ольга
+группа ИС-31
+    """</string>
+</resources>
